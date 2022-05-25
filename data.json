@@ -1,0 +1,104 @@
+{
+    "propiedades": [
+            {
+                "id":1,
+                "Nombre":"aaa",
+                "Tipo":"aa",
+                "precio":1,
+                "Ubicacion": "a",
+                "Habitaciones":1,
+                "Baños":1,
+                "Tamaño":"1 mt2",
+                "Proposito":"Venta",
+                "Inteligente":"no",
+                "Parqueadero":"Si",
+                "Piscina":"No",
+                "SeguridadPrivada":"No",
+                "CentroMedico":"No",
+                "Libreria":"No",
+                "CamaKingSize": "Si",
+                "ZonaNiños":"Si"
+            },
+            {
+                "id":2,
+                "Nombre":"bbb",
+                "Tipo":"bb",
+                "precio":2,
+                "Ubicacion": "b",
+                "Habitaciones":2,
+                "Baños":2,
+                "Tamaño":"2 mt2",
+                "Proposito":"Venta",
+                "Inteligente":"no",
+                "Parqueadero":"Si",
+                "Piscina":"No",
+                "SeguridadPrivada":"No",
+                "CentroMedico":"No",
+                "Libreria":"No",
+                "CamaKingSize": "Si",
+                "ZonaNiños":"Si"
+            },
+            {
+                "id":3,
+                "Nombre":"ccc",
+                "Tipo":"cc",
+                "precio":3,
+                "Ubicacion": "c",
+                "Habitaciones":3,
+                "Baños":3,
+                "Tamaño":"3 mt2",
+                "Proposito":"Arriendo",
+                "Inteligente":"no",
+                "Parqueadero":"Si",
+                "Piscina":"No",
+                "SeguridadPrivada":"No",
+                "CentroMedico":"No",
+                "Libreria":"No",
+                "CamaKingSize": "Si",
+                "ZonaNiños":"Si"
+            },
+            {
+                "id":4,
+                "Nombre":"ddd",
+                "Tipo":"dd",
+                "precio":4,
+                "Ubicacion": "d",
+                "Habitaciones":1,
+                "Baños":4,
+                "Tamaño":"4 mt2",
+                "Proposito":"Arriendi",
+                "Inteligente":"no",
+                "Parqueadero":"Si",
+                "Piscina":"No",
+                "SeguridadPrivada":"No",
+                "CentroMedico":"No",
+                "Libreria":"No",
+                "CamaKingSize": "Si",
+                "ZonaNiños":"Si"
+            }
+        ],
+    "asesores":[
+            {
+                "id":5,
+                "Nombre":"Andren Willium",
+                "Tipo":"dd",
+                "Telefono":1111111,
+                "image":""
+            },
+            {
+                "id":6,
+                "Nombre":"Andren Willium",
+                "Tipo":"dd",
+                "Telefono":2222222,
+                "image":""
+            },
+            {
+                "id":7,
+                "Nombre":"Andren Willium",
+                "Tipo":"dd",
+                "Telefono":333333,
+                "image":""
+            }
+        ]
+
+}
